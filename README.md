@@ -1,2 +1,5 @@
 # TUGAS PRAKTIKUM
 # PROGRAM MENGHITUNG NILAI MAHASISWA
+
+![img](Gambar/1.PNG)
+![img](Gambar/2.PNG)
